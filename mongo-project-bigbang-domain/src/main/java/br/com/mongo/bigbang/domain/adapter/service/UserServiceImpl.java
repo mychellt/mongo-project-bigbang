@@ -2,6 +2,7 @@ package br.com.mongo.bigbang.domain.adapter.service;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import br.com.mongo.bigbang.domain.model.User;
@@ -17,6 +18,7 @@ public class UserServiceImpl implements UserService {
 
 	private final UserRepository repository;
 
+	@Autowired
 	public UserServiceImpl(UserRepository repository) {
 		this.repository = repository;
 	}

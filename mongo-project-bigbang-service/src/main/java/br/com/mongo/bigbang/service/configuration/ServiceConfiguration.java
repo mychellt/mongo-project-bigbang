@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
  * @since 14/04/2020.
  */
 @Configuration
-@ComponentScan("br.com.mongo.bigbang")
+@ComponentScan(basePackages = {"br.com.mongo.bigbang"})
 public class ServiceConfiguration {
 
 }
