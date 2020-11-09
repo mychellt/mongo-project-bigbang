@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author Raphael Medeiros (raphael.medeiros@gmail.com)
+ * @author Mychell Teixeira (mychellt@gmail.com)
  * @since 14/02/2020.
  */
 @Repository

@@ -17,7 +17,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author Raphael Medeiros (raphael.medeiros@gmail.com)
+ * @author Mychell Teixeira (mychellt@gmail.com)
  * @since 14/02/2020.
  */
 class UserRepositoryImplTest {

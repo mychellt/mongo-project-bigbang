@@ -13,7 +13,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @author Raphael Medeiros (raphael.medeiros@gmail.com)
+ * @author Mychell Teixeira (mychellt@gmail.com)
  * @since 01/07/2019.
  */
 @Configuration
